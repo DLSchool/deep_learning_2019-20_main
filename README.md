@@ -1,26 +1,7 @@
 # Курс по нейронным сетям 2019-2020: продвинутый поток
 
-Официальный сайт: www.dlschool.org  
+Официальный сайт Школы Глубокого Обучения при [ФПМИ МФТИ](https://mipt.ru/education/departments/fpmi/): www.dlschool.org  
 [Репозиторий прошлого года](https://github.com/DLSchool/deep_learning_2018-19)
-
-<table width="100%">
-    <tr>
-        <td width="50%">
-            <H2>Featured code sample</H2>
-            <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/>
-            Code from the Google Cloud NEXT 2018 session "Tensorflow, deep
-            learning and modern convnets, without a PhD". Other samples from the "Tensorflow without a PhD" series are in
-            this repository too.
-        <td width="50%"><a href="https://youtu.be/KC4201o83W0"><img alt="Tensorflow, deep
-        learning and modern convnets, without a PhD" src="tensorflow-planespotting/img/next2018thumb.jpg"/></a></td>
-    </tr>
-</table>
-<br/>
-
-## Tensorflow and deep learning without a PhD series by [@martin_gorner](https://twitter.com/martin_gorner).
-
-A crash course in six episodes for software developers who want to learn machine learning, with examples, theoretical concepts,
-and engineering tips, tricks and best practices to build and train the neural networks that solve your problems.
 
 <table width="100%">
     <tr>
@@ -96,34 +77,4 @@ and engineering tips, tricks and best practices to build and train the neural ne
 <br/>
 <br/>
 <br/>
-<table width="75%">
-    <tr><td colspan="4">Quick access to all code samples:</td></tr>
-    <tr>
-        <td width="33%">
-                    <b><a href="tensorflow-mnist-tutorial">tensorflow-mnist-tutorial</a></b><br/>
-                    dense and convolutional neural network tutorial
-                </td>
-        <td width="33%">
-            <b><a href="tensorflow-rnn-tutorial">tensorflow-rnn-tutorial</a></b><br/>
-            recurrent neural network tutorial using temperature series
-        </td>
-        <td width="33%">
-            <b><a href="tensorflow-rl-pong">tensorflow-rl-pong</a></b><br/>
-            "pong" with reinforcement learning
-        </td>
-    </tr>
-    <tr>
-    <td width="33%">
-        <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/>
-        airplane detection model
-    </td>
-    <td width="33%">
-            <b><a href="https://github.com/conversationai/conversationai-models/tree/master/attention-tutorial">conversationai: attention-tutorial</a></b><br/>
-            Toxic comment detection with RNNs and attention
-        </td>
-    </tr>
-</table>
-<br/>
-<br/>
-<br/>
-*Disclaimer: This is not an official Google product but sample code provided for an educational purpose*
+
