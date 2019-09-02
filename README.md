@@ -12,7 +12,7 @@
                  <a href="https://www.youtube.com/watch?time_continue=3820&v=RviskFqwF3M">видео</a> |
                  <a href="https://cloud.mail.ru/public/BaEv/BWr96KK4U">слайды</a>
             </div>
-            Лекция про современное состояние Искусственного интеллекта и его применения. Читает [Михаил Бурцев](https://mipt.ru/persons/burtsev-mikhail-sergeevich/burtsev-mikhail-sergeevich/) (руководитель проекта iPavlov, заведующий лабораторией нейронных систем и глубокого обучения МФТИ).
+            Лекция про современное состояние Искусственного интеллекта и его применения. Читает <a href="https://mipt.ru/persons/burtsev-mikhail-sergeevich/burtsev-mikhail-sergeevich">Михаил Бурцев</a> (руководитель проекта iPavlov, заведующий лабораторией нейронных систем и глубокого обучения МФТИ).
         <td width="50%"><a href="https://www.youtube.com/watch?time_continue=3820&v=RviskFqwF3M"><img alt="Introduction to Deep Learning and AI (2019-2020)" src="_intro/img/intro_ai.jpg"/></a></td>
     </tr>
 </table>
