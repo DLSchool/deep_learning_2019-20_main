@@ -1,6 +1,6 @@
 # Курс по нейронным сетям 2019-2020: продвинутый поток
 
-Официальный сайт: www.dlschool.org
+Официальный сайт: www.dlschool.org  
 [Репозиторий прошлого года](https://github.com/DLSchool/deep_learning_2018-19)
 
 <table width="100%">
