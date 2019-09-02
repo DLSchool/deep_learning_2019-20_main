@@ -9,7 +9,7 @@
             <H2>Введение в современный ИИ и нейронные сети</H2>
             <div align="center">
                  <a href="https://www.youtube.com/watch?time_continue=3820&v=RviskFqwF3M">video</a> |
-                 <a href="">slides</a> |
+                 <a href="https://cloud.mail.ru/public/BaEv/BWr96KK4U">slides</a> |
                  <a href="">colab</a> |
                  <a href="">code</a><br/><br/></div>
             Лекция про современное состояние Искусственного интеллекта и его применения. Читает Михаил Бурцев (руководитель проекта iPavlov, заведующий лабораторией нейронных систем и глубокого обучения МФТИ).
