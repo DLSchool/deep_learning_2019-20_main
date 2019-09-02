@@ -1,6 +1,8 @@
 # Курс по нейронным сетям 2019-2020: продвинутый поток
 
-[Официальный сайт Школы Глубокого Обучения](https://www.dlschool.org) при [ФПМИ МФТИ](https://mipt.ru/education/departments/fpmi/). [Репозиторий прошлого года](https://github.com/DLSchool/deep_learning_2018-19)
+В этом репозитории будут выкладываться актуальные материалы занятий курса по Deep Learning 2019-2020 учебного года для **продвинутого потока**.
+
+[Официальный сайт Школы Глубокого Обучения](https://www.dlschool.org) при [ФПМИ МФТИ](https://mipt.ru/education/departments/fpmi/). [Репозиторий прошлого года](https://github.com/DLSchool/deep_learning_2018-19).
 
 <table width="100%">
     <tr>
