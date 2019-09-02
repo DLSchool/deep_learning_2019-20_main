@@ -6,13 +6,10 @@
 <table width="100%">
     <tr>
         <td width="50%">
-            <H2>Featured code sample</H2>
-            <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/>
-            Code from the Google Cloud NEXT 2018 session "Tensorflow, deep
-            learning and modern convnets, without a PhD". Other samples from the "Tensorflow without a PhD" series are in
-            this repository too.
-        <td width="50%"><a href="https://youtu.be/KC4201o83W0"><img alt="Tensorflow, deep
-        learning and modern convnets, without a PhD" src="tensorflow-planespotting/img/next2018thumb.jpg"/></a></td>
+            <H2>Введение в современный ИИ и нейронные сети</H2>
+            <b><a href="_intro">tensorflow-planespotting</a></b><br/>
+            Лекция про современное состояние Искусственного интеллекта и его применения. Читает Михаил Бурцев (руководитель проекта iPavlov, заведующий лабораторией нейронных систем и глубокого обучения МФТИ).
+        <td width="50%"><a href="https://www.youtube.com/watch?time_continue=3820&v=RviskFqwF3M"><img alt="Introduction to Deep Learning and AI (2019-2020)" src="_intro/img/intro_ai.jpg"/></a></td>
     </tr>
 </table>
 <br/>
