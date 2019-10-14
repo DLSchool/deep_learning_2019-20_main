@@ -9,7 +9,7 @@
         <td width="50%">
             <H2>Введение в современный ИИ и нейронные сети</H2>
             <div align="center">
-                 <a href="https://www.youtube.com/watch?time_continue=3820&v=RviskFqwF3M">видео</a> |
+                 <a href="https://www.youtube.com/watch?v=4JpVc-hwPlQ">видео</a> |
                  <a href="https://cloud.mail.ru/public/BaEv/BWr96KK4U">слайды</a>
             </div>
             Лекция про современное состояние Искусственного интеллекта и его применения. Читает <a href="https://mipt.ru/persons/laboratoriya-neyronnykh-sistem-i-glubokogo-obucheniya/burtsev-mikhail-sergeevich/">Михаил Бурцев</a> (руководитель проекта iPavlov, заведующий лабораторией нейронных систем и глубокого обучения МФТИ).
